@@ -1,0 +1,12 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	color: black;
+	font-family: robot;
+	font-size: 25px;
+	margin: 10px;
+	background: #a191cb;
+}
